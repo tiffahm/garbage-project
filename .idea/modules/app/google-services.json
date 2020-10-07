@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "478474253995",
+    "firebase_url": "https://login-10931.firebaseio.com",
+    "project_id": "login-10931",
+    "storage_bucket": "login-10931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478474253995:android:e945bf01c04464ba0729ee",
+        "android_client_info": {
+          "package_name": "com.tiffah.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478474253995-s2mr6cg194vgfvqghv2j7067kjgs2svh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tiffah.login",
+            "certificate_hash": "3bab6f5a952be8df4e70f707fa7bd5a2f4c2d9e5"
+          }
+        },
+        {
+          "client_id": "478474253995-8cvksrogaocllq9mnou5s90jgglptfu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAegsK9c93RLBF6WDsee0H1czZsUny6MSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478474253995-8cvksrogaocllq9mnou5s90jgglptfu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

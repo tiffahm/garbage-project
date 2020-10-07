@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Green</string>
+    <string name="app_description">The most convenient way
+        of keeping your place clean
+    </string>
+    <string name="sign_up_text">Do not have an Account?</string>
+    <string name="register">REGISTER</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="welcome">Welcome to our App</string>
+    <string name="done">Done</string>
+    <string name="reminder">Reminder name</string>
+    <string name="phone">Phone</string>
+    <string name="Email">Email</string>
+    <string name="rem">Remember me</string>
+    <string name="indoor">Available Indoor Cleaning Services</string>
+    <string name="request">Request Service</string>
+    <string name="outdoor"> Available Outdoor Cleaning Services</string>
+    <string name="msg">text</string>
+    <string name="msg_token_fmt">values</string>
+    <string name="msg_subscribed">you have subscribed</string>
+    <string name="msg_subscribed_failed">subscription failed</string>
+    <string name="location">Enter your Location</string>
+    <string name="phony">Enter your phone number</string>
+    <string-array name="menu">
+        <item>Menu</item>
+        <item>Profile</item>
+        <item>Contact Us</item>
+    </string-array>
+</resources>

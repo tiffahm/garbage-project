@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "688297104007",
+    "firebase_url": "https://login-tiffah.firebaseio.com",
+    "project_id": "login-tiffah",
+    "storage_bucket": "login-tiffah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688297104007:android:632b9c0879696c35821e22",
+        "android_client_info": {
+          "package_name": "com.tiffah.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688297104007-dv747p5vinaksqs8gq7umt4caoi0rhbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP18nT1HEVFafFO9zJ6hiJjB8jXjlBJSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688297104007-dv747p5vinaksqs8gq7umt4caoi0rhbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
